@@ -1,0 +1,13 @@
+{
+  "${modID}:Elder": {
+    "NAMES": [
+      "The Elder",
+      "the Elder"
+    ],
+    "TEXT": [
+      "Aefh ni'ngh'l yawg'rgh nyai'lwg'l fhai'l gnaetaaifhgh'nwg'lph kany'lnana, NL fhwg'nthth'lka ehha 'rnaka ta'rkaph gn'rny ya'nka'lka phth'lnana, NL Aefh ya'lnana fh'r 'l'nwgfhai fh'r fh'r phai'nwg'l aefhph ehnaaetaaifh, NL 'ngnka fh'r'rhu fhai'l ya'rwggh 'rya ny'nhany'nwgka hugnaetaaifh, NL Aefh ph'lwgtu'lph 'nph ai'lwg'nnaka aegn yana'lphai 'ngnka eh'rgn'l, NL ya'rwg fhai'l 'lnaka'lwg fhai'nfh nyaenana fh'nhu'l aiaeph fhaiwg'rgn'l",
+      "You infect the heart.",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~old~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  }
+}
